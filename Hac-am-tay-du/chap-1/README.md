@@ -1,5 +1,5 @@
 
-Chương 1: Chuyện xưa
+# Chương 1: Chuyện xưa
 
 Khi ta quỳ trước Phật, trong khoảnh khắc Kim Cô bị lấy đi, ta rốt cuộc nhớ lại, ta thực sự là ai.
 

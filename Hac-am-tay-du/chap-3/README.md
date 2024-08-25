@@ -174,4 +174,6 @@ Khi Tam Yêu Vương đang nói, một cơn gió vàng từ xa thổi đến, ma
 
 "Thì ra chuột cũng có ý định như vậy. Chúng ta ba anh em cũng có cùng suy nghĩ, Linh Sơn thực sự không muốn trở về nữa. Tốt rồi, lần này bốn người chúng ta sẽ đến Hoa Quả Sơn, náo loạn một phen cùng con khỉ. Để thế gian biết, yêu tộc chúng ta uy phong. Đại Bằng, bay nhanh lên, dẫn theo tứ đệ, chúng ta đi thôi."
 
-[Chương sau](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-4)
+# [Chương trước](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-2)
+
+# [Chương sau](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-4)
