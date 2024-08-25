@@ -72,6 +72,6 @@ Di Sơn Đại Thánh – Sư Đà Vương.
 
 Thông Phong Đại
 
-# [Chương trước](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-1)
-
 # [Chương sau](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-3)
+
+# [Chương trước](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-1)
