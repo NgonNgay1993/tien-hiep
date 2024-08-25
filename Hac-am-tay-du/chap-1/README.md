@@ -38,3 +38,6 @@ Thế nhưng, lần này, họ đã sai. 500 năm qua, ta không oán giận vì
 Như Lai lừa ta, dùng Ngũ Hành Sơn để áp chế ta suốt 500 năm. Quan Thế Âm lừa ta, buộc ta đội Kim Cô hành hạ ta sống không bằng chết. Nhưng ta đều nhẫn nhịn.
 
 Kim Cô không chỉ đơn giản là một vòng kim loại. Mỗi khi sư phụ ta niệm chú, nó sẽ phân hóa một luồng thần niệm của Như Lai vào Linh Hải của ta, cố gắng nuốt chửng linh hồn ta. Nếu không phải vì điều này, làm sao nó có thể đối phó với cơ thể Kim Cương Bất Hoại của ta được?
+
+
+[Chương sau](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-2)
