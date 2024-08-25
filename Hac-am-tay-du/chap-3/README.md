@@ -1,10 +1,10 @@
-Chương 3: Chuẩn bị chiến tranh
+# Chương 3: Chuẩn bị chiến tranh
 
 Trong đêm khuya tĩnh lặng, ta biết rõ rất nhiều người không thể yên giấc. Như Lai không, Ngọc Đế không, sư phụ cũng không, và dĩ nhiên, ta cũng chẳng thể ngủ. Có lẽ chỉ có Bát Giới mới ngủ say, hắn thật ngốc, nhưng lại dễ mến. Từ ngày gặp hắn tại Cao Lão Trang, hắn đã luôn đi theo ta, đến giờ đã mấy trăm năm.
 
 Ta không biết việc này là đúng hay sai. Nếu không có ta, sư phụ có lẽ chỉ là một hòa thượng bình thường, trải qua luân hồi, Bát Giới vẫn là Trư Yêu chỉ biết mộng tưởng đến Nguyệt Cung, Sa sư đệ vẫn ở Lưu Sa Hà, và Tiểu Bạch Long vẫn là Thủy Long Vương. Nhưng, nếu "nếu như" không tồn tại, thì mọi thứ đã khác đi. Hiện tại, việc duy nhất có thể làm là chuẩn bị cho trận chiến sắp tới.
 
-Linh Sơn, Đại Lôi Âm Tự.
+## Linh Sơn, Đại Lôi Âm Tự.
 
 “Già Diệp, Đấu Chiến Phật đã chuẩn bị thế nào?”
 
@@ -14,13 +14,13 @@ Linh Sơn, Đại Lôi Âm Tự.
 
 “Dạ, Phật Tổ.”
 
-Vạn Thọ Sơn, Ngũ Trang Quan.
+## Vạn Thọ Sơn, Ngũ Trang Quan.
 
 Trấn Nguyên Tử ngắm nhìn Nhân Sâm Quả Thụ, khẽ thở dài: “Năm xưa, Tôn Hầu Tử một gậy đập gãy rễ của ngươi. Dù Quan Âm cứu chữa, ngươi vẫn cần thời gian hồi phục. Đây là nghiệt duyên. Lần này, ta sẽ giúp hắn một tay, dù sao chúng ta từng kết nghĩa huynh đệ. Vô lượng thọ Phật, không biết việc này là đúng hay sai.”
 
 Ngài lặng lẽ quan sát thiên địa, nhưng chỉ có Nhân Sâm Quả Thụ đáp lời.
 
-Thúy Vân Sơn, Ba Tiêu Động.
+## Thúy Vân Sơn, Ba Tiêu Động.
 
 "Phu quân, ngươi thực sự muốn đi giúp Tôn Hầu Tử sao?"
 
@@ -54,7 +54,7 @@ Tiếng hô vang trời chấn động thiên địa.
 
 "Ha ha ha! Hầu Tử, ta đến đây!"
 
-Bắc Hải, Thủy Cung.
+## Bắc Hải, Thủy Cung.
 
 "Đại vương, 50 vạn thủy binh đã sẵn sàng, và động phủ đã đóng kín, tùy thời xuất chinh."
 
@@ -64,7 +64,7 @@ Hầu Tử, ta không sợ chết, nhưng Thiên Cung quá mạnh. Hôm nay, cu�
 
 Phúc Hải Đại Thánh Giao Ma Vương, đã đến lúc xuất thế. Hầu Tử, chờ ta.
 
-Phương Tây, Khuê Mộc Lang Tinh.
+## Phương Tây, Khuê Mộc Lang Tinh.
 
 "Khuê Mộc Lang, ngươi đã quyết định rồi sao?"
 
@@ -78,7 +78,7 @@ Khuê Mộc Lang đỏ mặt, nhìn Tâm Nguyệt Hồ, khẽ nói: "Ngươi ch�
 
 Tất cả tinh tú cùng đồng thanh: "Tốt!"
 
-Nam Hải, Tử Trúc Lâm.
+## Nam Hải, Tử Trúc Lâm.
 
 "Mộc Tra, gọi Hắc Hùng Tinh đến đây."
 
@@ -104,7 +104,7 @@ Một lát sau, Hắc Hùng Tinh xuất hiện.
 
 "Vâng, Bồ Tát."
 
-Thiên Cung, Thác Tháp Thiên Vương Phủ.
+## Thiên Cung, Thác Tháp Thiên Vương Phủ.
 
 "Cha, những gì người nói là thật sao?"
 
