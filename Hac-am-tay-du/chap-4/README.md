@@ -64,7 +64,7 @@ Ban đêm trên đỉnh Hoa Quả Sơn, một con khỉ ngồi lặng lẽ, nhì
 
 "Hắc hắc, vẫn là như vậy trông đẹp trai hơn."
 
-Ngày hôm sau, tại Lăng Tiêu Bảo Điện
+## Ngày hôm sau, tại Lăng Tiêu Bảo Điện
 
 "Báo, báo, báo, đại sự không hay rồi!"
 
@@ -74,4 +74,113 @@ Ngày hôm sau, tại Lăng Tiêu Bảo Điện
 
 "Cự Linh Thần, sao ngươi dám vô lễ như thế?"
 
-"Ngọc Đế, không phải tiểu tướng vô lễ, mà là Tôn Hầu Tử lại tấn công Thiên Cung! Hiện giờ hắn đã đánh tới ngoài Nam Thiên Môn, Tứ Đại Thiên Vương đang kịch chiến. Tiểu tướng đặc biệt đến bẩm báo Ngọc Đế!"
+"Ngọc, Ngọc Đế, không phải tiểu tướng vô lễ, mà là Tôn Hầu Tử lại tấn công Thiên Cung! Hiện giờ hắn đã đánh tới ngoài Nam Thiên Môn, Tứ Đại Thiên Vương đang kịch chiến. Tiểu tướng đặc biệt đến bẩm báo Ngọc Đế!"
+
+"A, hầu tử kia lại dám đánh lên Thiên Đình nữa sao? Làm sao có thể chứ? Hắn không phải đang đối đầu với Như Lai sao? Sao lại có thời gian để đánh lên đây được? Thác Tháp Thiên Vương đâu? Thác Tháp Thiên Vương ở đâu?"
+
+Không một ai trong điện trả lời.
+
+"Thác Tháp Thiên Vương đâu? Có ai thấy Thác Tháp Thiên Vương không?"
+
+"Khởi bẩm Ngọc Đế, trước lúc lâm triều, thần có thấy Thiên Vương cùng với Tam Thái Tử bay về hướng Đông Thiên Môn. Nhưng cụ thể đi đâu thì thần không rõ."
+
+"Lúc này Lý Tịnh lại đi về Đông Thiên Môn? Vũ Khúc Tinh, Vũ Khúc Tinh đâu?"
+
+"Tiểu tướng có mặt."
+
+"Trẫm hiện phong ngươi làm Đãng Ma Đại Nguyên Soái, thống lĩnh toàn bộ Thiên Binh của Thiên Đình, mau chóng tiến đến Nam Thiên Môn bắt lấy Yêu Hầu Tôn Ngộ Không. Nhất định phải ngăn hắn lại ở ngoài Nam Thiên Môn."
+
+"Thuộc hạ tuân mệnh."
+
+"Văn Thái Sư đâu?"
+
+"Cựu thần có mặt."
+
+"Trẫm lệnh cho ngươi suất lĩnh Lôi Bộ Chính Thần, Cửu Diệu Thiên Quân, cùng hai mươi tám Tinh Túc, Phong Vũ Lôi Điện, tức khắc tiến đến Đông Thiên Môn, truy tìm Thác Tháp Thiên Vương Lý Tịnh. Nếu phát hiện Lý Tịnh có dấu hiệu gì bất thường, lập tức bắt giữ."
+
+"Thần tuân chỉ."
+
+"Thái Bạch Kim Tinh, mau truyền lệnh đến Tử Vi Đại Đế, Câu Trần Đại Đế, và Hậu Thổ Hoàng, bảo họ lập tức đến Lăng Tiêu Bảo Điện."
+
+"Vi thần tuân mệnh."
+
+"Thiên Lý Nhãn."
+
+"Tiểu tướng có mặt."
+
+"Lập tức đến Tinh Đấu Đại Điện, thông báo cho Nam Đẩu và Bắc Đẩu Tinh Quân đến đây hỗ trợ tác chiến."
+
+"Tiểu tướng tuân lệnh."
+
+"Thuận Phong Nhĩ."
+
+Tiểu tướng có mặt."
+
+"Tức khắc lên đường đến Quán Giang Khẩu, triệu Nhị Lang Thần đến trợ chiến. Nhớ kêu hắn dẫn theo huynh đệ Mai Sơn và 1200 Thảo Đầu Thần."
+
+"Tiểu tướng lĩnh mệnh."
+
+"Vũ Đức Tinh Quân."
+
+"Thuộc hạ có mặt."
+
+"Ngươi lập tức đến Linh Sơn, thỉnh Phật Tổ đến đây. Nhắn rằng Yêu Hầu Tôn Ngộ Không lại đến gây rối."
+
+"Thuộc hạ tuân lệnh."
+
+Sau khi hàng loạt mệnh lệnh được truyền đi, Ngọc Đế mới khẽ thở phào nhẹ nhõm. Tuy nhiên, Ngọc Đế không hề hay biết rằng lúc này Thiên Đình đã bị bao vây bởi tầng tầng lớp lớp yêu binh.
+
+"Hầu ca à, sao cứu viện còn chưa tới vậy? Nam Thiên Môn sắp không giữ nổi rồi, nếu không có viện binh, chúng ta phải đánh thẳng lên Lăng Tiêu Bảo Điện mất."
+
+"Ngốc tử, ngươi gấp cái gì? Một lát nữa khi mở được Nam Thiên Môn, ngươi dẫn theo một đội yêu binh tiến thẳng vào Thiên Hà. Đánh xuyên đáy sông, sẽ có viện quân đến trợ giúp."
+
+"Ngươi đúng là thối hầu tử, chỉ biết sai khiến lão Trư ta. Đánh vào đáy sông Thiên Hà, ngươi cũng nghĩ ra được. Nếu từ đáy sông mà trồi lên một đội yêu binh, chẳng phải Ngọc Đế sẽ thành trò hề sao? Ha ha, lão Trư ta đi vậy."
+
+"Báo! Báo! Nam Thiên Môn báo nguy! Nguyên soái, Nam Thiên Môn không cầm cự nổi nữa rồi, hầu tử kia quá lợi hại!"
+
+"Không cần hoảng hốt. Mau đi thông tri Cửu Diệu Tinh Quân và hai mươi tám Tinh Túc mở Chư Thiên Tinh Túc đại trận. Dùng sức mạnh của Tinh Túc để giữ chân Nam Thiên Môn."
+
+"Thuộc hạ tuân mệnh."
+
+Lúc này, tại Lăng Tiêu Bảo Điện, mọi thứ đang trở nên hỗn loạn.
+
+"Ngọc Đế à, chuyện này phải làm sao đây? Yêu Hầu kia lần này quyết tâm gây đại loạn rồi. Đông Thiên Môn đã thất thủ, không ngờ Thác Tháp Thiên Vương Lý Tịnh lại cấu kết với yêu tộc phản loạn. Thật là lòng muông dạ thú!"
+
+"Thái Bạch, tình hình ở Nam Thiên Môn ra sao?"
+
+"Khởi bẩm Ngọc Đế, Vũ Khúc Tinh Nguyên Soái đã mở Tinh Túc đại trận, tạm thời không có gì đáng ngại. Tuy nhiên, vi thần lo rằng Bắc Thiên Môn và Tây Thiên Môn cũng đang gặp nguy."
+
+Chưa kịp nói dứt lời, đã có tin báo.
+
+"Báo! Khởi bẩm Ngọc Đế, Tây Thiên Môn và Bắc Thiên Môn đều xuất hiện quân yêu tộc. Tây Thiên Môn do Ngưu Ma Vương dẫn đầu, đang mãnh liệt tấn công. Bên ngoài Bắc Thiên Môn có hai con Đại Bằng Điểu đang sử dụng cuồng phong phá hoại đại trận phòng thủ. Hơn nữa, ngoài Bắc Thiên Môn còn có vô số yêu binh đang chờ chực. Một khi cánh cổng này thất thủ, yêu tộc sẽ nhanh chóng tiến quân thần tốc!"
+
+"Hai con Đại Bằng Điểu? Chẳng lẽ là Bằng Ma Vương? Còn con kia là ai? Mau đi dò xét kỹ càng rồi báo lại."
+
+"Thuộc hạ tuân lệnh."
+
+"Thượng Bát Tiên đâu?"
+
+"Thuộc hạ có mặt."
+
+"Các ngươi nhanh chóng đến Thiên Hà, lập Bát Tiên Trận để phong tỏa Thiên Hà."
+
+"Tuân chỉ."
+
+"Bệ hạ, đây đang là lúc dụng binh, sao lại không để Bát Tiên đi trấn thủ Nam Thiên Môn? Nếu Nam Thiên Môn bị phá, hậu quả sẽ rất nghiêm trọng!"
+
+"Trẫm hiểu rõ. Nhưng trẫm có cảm giác không ổn. Lần này, Yêu Hầu dường như đã dốc toàn lực yêu tộc để quyết chiến. Phải đề phòng mọi tình huống."
+
+Bát Tiên vừa rời đi, lại có tin báo tới.
+
+"Báo! Thiên Hà thất thủ! Thiên Bồng Nguyên Soái cũ đã dẫn yêu binh đánh xuyên qua đáy sông Thiên Hà. Giao Ma Vương chỉ huy 20 vạn thủy binh trồi lên từ đáy sông, khiến 8 vạn quân phòng thủ của Thiên Hà tan tác. Hiện tại, Giao Ma Vương đã dẫn quân tiến về phía Bắc Thiên Môn."
+
+"Thiên, Thiên Bồng? Sao hắn lại xuất hiện ở Thiên Hà? Chẳng lẽ..."
+
+"Báo! Nam Thiên Môn thất thủ! Khi hai mươi tám Tinh Túc đang bố trí Tinh Túc đại trận, bất ngờ phản loạn, gây thương tích cho Cửu Diệu Tinh Quân rồi gia nhập phe yêu tộc. Hiện tại, Tôn Ngộ Không đã dẫn binh đánh thẳng lên Cửu Trùng Thiên."
+
+Ngọc Đế lặng người, nhìn đường đường Thiên Đình giờ đây lại bị một đám yêu tộc công phá trong thời gian ngắn ngủi, lại còn nhiều Thần tộc phản bội như vậy.
+
+"Mau, mau đi mời Thái Thượng Lão Quân trên Tam Thập Tam Trùng Thiên xuống trợ giúp!"
+
+
+### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-5)
