@@ -1,5 +1,6 @@
 
 # Chương 1: Chuyện xưa
+### [Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-5)
 
 Khi ta quỳ trước Phật, trong khoảnh khắc Kim Cô bị lấy đi, ta rốt cuộc nhớ lại, ta thực sự là ai.
 
