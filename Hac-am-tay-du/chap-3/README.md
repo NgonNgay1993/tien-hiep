@@ -1,6 +1,6 @@
 # Chương 3: Chuẩn bị chiến tranh
 
-### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-4)
+### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-4)
 
 
 Trong đêm khuya tĩnh lặng, ta biết rõ rất nhiều người không thể yên giấc. Như Lai không, Ngọc Đế không, sư phụ cũng không, và dĩ nhiên, ta cũng chẳng thể ngủ. Có lẽ chỉ có Bát Giới mới ngủ say, hắn thật ngốc, nhưng lại dễ mến. Từ ngày gặp hắn tại Cao Lão Trang, hắn đã luôn đi theo ta, đến giờ đã mấy trăm năm.
@@ -177,4 +177,4 @@ Khi Tam Yêu Vương đang nói, một cơn gió vàng từ xa thổi đến, ma
 
 "Thì ra chuột cũng có ý định như vậy. Chúng ta ba anh em cũng có cùng suy nghĩ, Linh Sơn thực sự không muốn trở về nữa. Tốt rồi, lần này bốn người chúng ta sẽ đến Hoa Quả Sơn, náo loạn một phen cùng con khỉ. Để thế gian biết, yêu tộc chúng ta uy phong. Đại Bằng, bay nhanh lên, dẫn theo tứ đệ, chúng ta đi thôi."
 
-### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-4)
+### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-4)

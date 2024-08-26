@@ -1,6 +1,6 @@
 
 # Chương 1: Chuyện xưa
-### [Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-5)
+### [Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-5)
 
 Khi ta quỳ trước Phật, trong khoảnh khắc Kim Cô bị lấy đi, ta rốt cuộc nhớ lại, ta thực sự là ai.
 
@@ -41,4 +41,4 @@ Như Lai lừa ta, dùng Ngũ Hành Sơn để áp chế ta suốt 500 năm. Qua
 Kim Cô không chỉ đơn giản là một vòng kim loại. Mỗi khi sư phụ ta niệm chú, nó sẽ phân hóa một luồng thần niệm của Như Lai vào Linh Hải của ta, cố gắng nuốt chửng linh hồn ta. Nếu không phải vì điều này, làm sao nó có thể đối phó với cơ thể Kim Cương Bất Hoại của ta được?
 
 
-[Chương sau](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-2)
+[Chương sau](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-2)

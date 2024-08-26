@@ -1,6 +1,6 @@
 # Chương 4: Phát binh
 
-### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-5)
+### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-5)
 
 ## Thiên Cung Lăng Tiêu Bảo Điện
 
@@ -183,4 +183,4 @@ Ngọc Đế lặng người, nhìn đường đường Thiên Đình giờ đâ
 "Mau, mau đi mời Thái Thượng Lão Quân trên Tam Thập Tam Trùng Thiên xuống trợ giúp!"
 
 
-### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-5)
+### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-5)

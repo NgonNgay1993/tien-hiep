@@ -1,6 +1,6 @@
 # Chương 7: Bát Giới
 
-### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-8)
+### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-8)
 
 "Hầu tử, đi mau a, nơi này chúng ta chịu nổi, không cần lo lắng chúng ta."
 
@@ -107,4 +107,4 @@ Nói đến đây, Trư Bát Giới ném một viên tiên đan vào miệng, kh
 Bát Giới nói xong, Tôn Ngộ Không kinh ngạc không ngậm miệng được, trong lòng chỉ có một ý niệm: Ngọc Đế, thật phải xui xẻo!
 
 
-### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-8)
+### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-8)

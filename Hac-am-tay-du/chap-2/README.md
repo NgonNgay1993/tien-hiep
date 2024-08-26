@@ -1,6 +1,6 @@
 # Chương 2: Chuyện Cũ
 
-### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-3)
+### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-3)
 
 Hiện tại đã hiểu rõ, bất luận là Thiên Cung hay Linh Sơn, đều muốn chiếm đoạt ta vì trong đầu ta chứa Linh uẩn vô cùng quý báu. Tại sao Linh uẩn trong đầu ta lại mạnh mẽ như vậy? Bởi vì đó là một mảnh Thần thạch do Nữ Oa nương nương để lại khi vá trời. Sau khi Thần thạch được sử dụng để vá trời, mảnh linh thạch trong đầu ta dần dần đồng hóa với chư thiên thế giới. Có thể nói thế giới là ta, và ta chính là linh hồn của thế giới. Ai nắm giữ được khối Thần thạch này thì tương đương với việc thống trị tất cả các thế giới chư thiên.
 
@@ -74,4 +74,4 @@ Di Sơn Đại Thánh – Sư Đà Vương.
 
 Thông Phong Đại
 
-### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-3)
+### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-3)

@@ -1,6 +1,6 @@
 # Chương 6: Bồ Đề
 
-### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-7)
+### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-7)
 
 "Tu Bồ Đề? Dĩ nhiên là ngươi? Ngươi tới nơi này làm gì?"
 
@@ -141,4 +141,4 @@ Mới nói xong, một chiếc cờ nhỏ bảy tấc xuất hiện giữa khôn
 Rất nhiều việc thường vượt ngoài tưởng tượng của chúng ta và không thể kiểm soát được. Như việc sáu Thiên Ma từ cờ nhỏ xuất hiện, thực sự không ngờ rằng Thái Thượng Lão Quân lại sử dụng một mảnh Thiên Ma Phiên kinh khủng như vậy. Sáu Thiên Ma mỗi đầu đều không thua kém Bằng Ma Vương, thậm chí có thể mạnh hơn nửa phần.
 
 
-### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/init-folder-tree/Hac-am-tay-du/chap-7)
+### [<<< Chương trước](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Chương sau >>>](https://github.com/ngonngay/tien-hiep/tree/main/Hac-am-tay-du/chap-7)
