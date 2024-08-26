@@ -120,15 +120,15 @@ Thanh âm vừa dứt, liền thấy hai bóng người từ không trung nhảy
 
 Tôn Ngộ Không vừa định rời đi, bỗng nhiên từ bầu trời bay đến một thanh Tiên Kiếm, đâm thẳng về phía hắn. Thanh phi kiếm này hung tàn cực độ, khiến Tôn Ngộ Không chỉ có thể đối đầu trực diện, không thể né tránh. Tiếng "keng" vang lên, hắn bị đẩy lùi ba bước lớn, Kim Cô Bổng trong tay vẫn còn rung lên không ngừng.
 
-"Là ai đánh lén ta lão Tôn? Sao lại tàn nhẫn như vậy?"
+"Là ai đánh lén lão Tôn ta? Sao lại tàn nhẫn như vậy?"
 
-Chỉ thấy từ xa, hai luồng thanh vân bay đến, trên đó đứng hai vị tiên phong đạo cốt lão đạo.
+Chỉ thấy từ xa, hai luồng thanh vân bay đến, trên đó đứng hai vị lão đạo tiên phong đạo cốt.
 
-Tôn Ngộ Không cười lạnh: "Ha ha, ta tưởng ai, hóa ra là hai lão đạo sĩ mũi trâu. Thái Thượng Lão Quân, ngươi không ở Lý Hận Thiên luyện đan, chạy đến đây làm gì?"
+Tôn Ngộ Không cười lạnh: "Ha ha, ta tưởng ai, hóa ra là hai lão đạo sĩ mũi trâu. Thái Thượng Lão Quân, ngươi không ở Ly Hận Thiên luyện đan, chạy đến đây làm gì?"
 
-Thái Thượng Lão Quân cười nhạt: "Ngươi này bát hầu, ngàn năm trước đại náo thiên cung coi như xong, sao không rút ra bài học mà vẫn dám tới Thiên Cung càn quấy? Hơn nữa, ngươi còn xúi giục Thanh Ngưu trộm pháp bảo của ta, thật sự đáng trách."
+Thái Thượng Lão Quân cười nhạt: "Hầu tử ngỗ ngược này, ngàn năm trước đại náo thiên cung coi như xong, sao không rút ra bài học mà vẫn dám tới Thiên Cung càn quấy? Hơn nữa, ngươi còn xúi giục Thanh Ngưu trộm pháp bảo của ta, thật sự đáng trách."
 
-Thông Thiên giáo chủ chen vào: "Sư huynh, không cần nhiều lời. Yêu hầu này pháp lực có chút không tồi, ngạnh kháng một đòn Tru Tiên Kiếm của ta mà chỉ lùi ba bước, khá thú vị. Sư huynh lui ra phía sau, để ta mang lên kiếm trận, tru diệt hắn."
+Thông Thiên giáo chủ chen vào: "Sư huynh, không cần nhiều lời. Yêu hầu này pháp lực có chút không tồi, ngạnh kháng một đòn Tru Tiên Kiếm của ta mà chỉ lùi ba bước, khá thú vị. Sư huynh lui ra phía sau, để ta khởi lên kiếm trận, tru diệt hắn."
 
 "Sư huynh cẩn thận, hầu tử này có nhiều thủ đoạn, không thể chủ quan."
 
@@ -162,7 +162,7 @@ Tôn Ngộ Không ngẩng đầu, giận dữ nhìn về phía Thông Thiên gi�
 
 Trấn Nguyên Tử mặt lạnh, nhưng trong lòng dậy sóng. Hắn hiểu rằng Tôn Ngộ Không và mình dù đã dùng hết sức, nhưng vẫn không thể lay chuyển được Thông Thiên giáo chủ. Lần này, e rằng thực sự khó lòng thoát khỏi nguy hiểm.
 
-Thông Thiên giáo chủ cười lớn: "Ha ha, các ngươi chỉ có chút bản lĩnh này thôi sao? Loài kiến hôi như các ngươi mà cũng dám vọng tưởng Tề Thiên? Để ta kết thúc các ngươi."
+Thông Thiên giáo chủ cười lớn: "Ha ha, các ngươi chỉ có chút bản lĩnh này thôi sao? Loài kiến hôi như các ngươi mà cũng dám vọng tưởng Tề Thiên? Để ta tiêu diệt các ngươi."
 
 Hắn phất tay áo một cái, một đạo thanh quang lóe lên. Đó chính là thanh tiên kiếm Thanh Bình Kiếm, một cực phẩm Tiên Thiên Linh Bảo.
 
